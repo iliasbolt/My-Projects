@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\bin\Debug\Notes.exe.config
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\bin\Debug\Notes.exe
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\bin\Debug\Notes.pdb
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.Splash.resources
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.Properties.Resources.resources
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.exe
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.pdb
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.Login_Form.resources
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.Menu.resources
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.Information.resources
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.MenuForm_Son.resources
+C:\Users\hp\Desktop\SQL MODE DECONNECTE\Notes\Notes\obj\Debug\Notes.Ajouter_Admin.resources
